@@ -1,7 +1,8 @@
 # skills-HoneyHunters
 
 Тестовое задание
-
+Макет:
+https://mega.nz/#!dIEXDaID!ZvLK3wIVsh991SM_JP9jV945Ysffw5cGF3rv_xvB3Pw
 Задание:
     1. Сверстать страницу по макету hhm_test.psd адаптивно, используя bootstrap.
     2. Все элементы на странице должны быть рабочими.
